@@ -1,0 +1,14 @@
+/home/findus/design-patterns-practice/Basics/ClassHierarchiesInheritance/obj/Debug/net9.0/ClassHierarchiesInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/findus/design-patterns-practice/Basics/ClassHierarchiesInheritance/obj/Debug/net9.0/ClassHierarchiesInheritance.AssemblyInfoInputs.cache
+/home/findus/design-patterns-practice/Basics/ClassHierarchiesInheritance/obj/Debug/net9.0/ClassHierarchiesInheritance.AssemblyInfo.cs
+/home/findus/design-patterns-practice/Basics/ClassHierarchiesInheritance/obj/Debug/net9.0/ClassHierarchiesInheritance.csproj.CoreCompileInputs.cache
+/home/findus/design-patterns-practice/Basics/ClassHierarchiesInheritance/bin/Debug/net9.0/ClassHierarchiesInheritance
+/home/findus/design-patterns-practice/Basics/ClassHierarchiesInheritance/bin/Debug/net9.0/ClassHierarchiesInheritance.deps.json
+/home/findus/design-patterns-practice/Basics/ClassHierarchiesInheritance/bin/Debug/net9.0/ClassHierarchiesInheritance.runtimeconfig.json
+/home/findus/design-patterns-practice/Basics/ClassHierarchiesInheritance/bin/Debug/net9.0/ClassHierarchiesInheritance.dll
+/home/findus/design-patterns-practice/Basics/ClassHierarchiesInheritance/bin/Debug/net9.0/ClassHierarchiesInheritance.pdb
+/home/findus/design-patterns-practice/Basics/ClassHierarchiesInheritance/obj/Debug/net9.0/ClassHierarchiesInheritance.dll
+/home/findus/design-patterns-practice/Basics/ClassHierarchiesInheritance/obj/Debug/net9.0/refint/ClassHierarchiesInheritance.dll
+/home/findus/design-patterns-practice/Basics/ClassHierarchiesInheritance/obj/Debug/net9.0/ClassHierarchiesInheritance.pdb
+/home/findus/design-patterns-practice/Basics/ClassHierarchiesInheritance/obj/Debug/net9.0/ClassHierarchiesInheritance.genruntimeconfig.cache
+/home/findus/design-patterns-practice/Basics/ClassHierarchiesInheritance/obj/Debug/net9.0/ref/ClassHierarchiesInheritance.dll
