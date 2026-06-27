@@ -49,3 +49,39 @@ foreach (var professor in mathematicsDepartment.Professors)
     Console.WriteLine($"{professor.Title} {professor.Name}");
 }
 
+// If I were to take out Dr. Smith from the english department, she can still be in the maths department and exist independently too:
+
+englishDepartment.Professors.Remove(profSmith);
+
+Console.WriteLine("Ms. Smith can exist without being in the english department:");
+Console.WriteLine($"{profSmith.Title} {profSmith.Name}");
+
+Console.WriteLine("English department professors:");
+foreach (var professor in englishDepartment.Professors)
+{
+    Console.WriteLine($"{professor.Title} {professor.Name}");
+}
+
+Console.WriteLine("Maths department professors:");
+foreach (var professor in mathematicsDepartment.Professors)
+{
+    Console.WriteLine($"{professor.Title} {professor.Name}");
+}
+
+mathematicsDepartment.Professors.Remove(profSmith);
+
+Console.WriteLine("And she still exists after being removed from both departments:");
+Console.WriteLine($"{profSmith.Title} {profSmith.Name}");
+
+Console.WriteLine("English department professors:");
+foreach (var professor in englishDepartment.Professors)
+{
+    Console.WriteLine($"{professor.Title} {professor.Name}");
+}
+
+Console.WriteLine("Maths department professors:");
+foreach (var professor in mathematicsDepartment.Professors)
+{
+    Console.WriteLine($"{professor.Title} {professor.Name}");
+}
+
